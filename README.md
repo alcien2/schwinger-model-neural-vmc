@@ -26,8 +26,6 @@ The Schwinger model Hamiltonian (mass term + XY hopping + interaction) is constr
 
 - `Hamiltonian.py` — builds the full Hamiltonian matrix via tensor products of Pauli matrices
 - `build_H.py` — batched, GPU-friendly Hamiltonian matrix element computation
-- `number_of_qubits_12.npy` — precomputed eigenvector for N=12 (used as initialization)
-- `Draw_all.ipynb` — plots and comparison of all models
 
 ## Setup
 
